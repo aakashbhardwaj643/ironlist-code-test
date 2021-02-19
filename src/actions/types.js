@@ -1,0 +1,4 @@
+export const FETCH_RATES = 'FETCH_RATES';
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';
+export const SELECTED_RATE = 'SELECTED_RATE';
+export const CHECKBOX_STATE = 'CHECKBOX_STATE';
